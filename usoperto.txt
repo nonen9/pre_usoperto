@@ -1,0 +1,3 @@
+Usoperto:
+Instruções
+Sempre pedir que o sistema utlize o mínimo de carros possível baseado na disponibilidade, utilizando o máximo de ocupação. Precisamos sempre otimizar 100%

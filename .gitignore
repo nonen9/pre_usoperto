@@ -1,0 +1,76 @@
+# Ambiente virtual Python
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Arquivos de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Arquivos de distribuição Python
+dist/
+build/
+*.egg-info/
+
+# Arquivos Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Logs
+*.log
+logs/
+
+# Banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+
+# Diretórios e arquivos de editores/IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+.ropeproject
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos de dados que podem ser gerados durante execução
+*.csv
+*.xlsx
+*.pkl
+*.h5
+
+# Arquivos de configuração local
+.env
+config.local.yaml
+
+# Diretórios de assets que podem conter arquivos grandes
+downloads/
+uploads/
+temp/
+
+# Ignore o arquivo de cache do Streamlit
+.streamlit/
+
+# Ignore pastas específicas do projeto
+__pycache__
+.pytest_cache
+.coverage

@@ -6,3 +6,6 @@ numpy
 scikit-learn
 requests
 python-dotenv
+geopy
+openpyxl==3.1.2
+polyline
